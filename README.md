@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sam Bhardwaj
+- 👀 I’m interested in Web Dev and flutter
+- 🌱 I’m currently learning nextJs
+- 💞️ I’m looking to collaborate on Web Devlopment
+- 📫 How to reach me:
+- email: dsoumitra693@gmail.com
