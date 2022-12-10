@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam Bhardwaj
+- 👋 Hi, I’m Soumitra Das aka Sam
 - 👀 I’m interested in Web Dev and flutter
 - 🌱 I’m currently learning nextJs
 - 💞️ I’m looking to collaborate on Web Devlopment
