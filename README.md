@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumitra Das aka Sam
-- 👀 I’m interested in Web Dev and flutter
-- 🌱 I’m currently learning nextJs
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Web Devlopment
 - 📫 How to reach me:
 - email: dsoumitra693@gmail.com
