@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [AmineX](https://github.com/dsoumitra693/AnimeX)
 
-- 🌱 I’m currently learning **Tailwind, MySql,Rust**
+- 🌱 I’m currently learning **Backend Dev, Redis, PostgresSql, Kafka**
 
 - 👯 I’m looking to collaborate on **Web Devlopment**
 
-- 🤝 I’m looking for help with [AmineX](https://github.com/dsoumitra693/AnimeX)
+- 🤝 I’m looking for help with [AmineX](https://github.com/dsoumitra693/sacalable-chat-app)
 
 - 💬 Ask me about **react, react native, node**
 
