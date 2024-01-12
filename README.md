@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsoumitra693" alt="dsoumitra693" /></a> </p>
 
-- 🔭 I’m currently working on [AmineX](https://github.com/dsoumitra693/AnimeX)
-
+- 🔭 I’m currently working on [Scalable Chat App](https://github.com/dsoumitra693/sacalable-chat-app)
 - 🌱 I’m currently learning **Backend Dev, Redis, PostgresSql, Kafka**
 
 - 👯 I’m looking to collaborate on **Web Devlopment**
 
-- 🤝 I’m looking for help with [Scalable Chat App](https://github.com/dsoumitra693/sacalable-chat-app)
+- 🤝 I’m looking for help with [AmineX](https://github.com/dsoumitra693/AnimeX)
 
-- 💬 Ask me about **react, react native, node**
+- 💬 Ask me about **React, React native, NodeJS**
 
 - 📫 How to reach me **soumitradas46452@gmail.com**
 
