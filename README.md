@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Devlopment**
 
-- 🤝 I’m looking for help with [AmineX](https://github.com/dsoumitra693/sacalable-chat-app)
+- 🤝 I’m looking for help with [Scalable Chat App](https://github.com/dsoumitra693/sacalable-chat-app)
 
 - 💬 Ask me about **react, react native, node**
 
