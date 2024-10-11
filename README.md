@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsoumitra693" alt="dsoumitra693" /></a> </p>
 
-- 🔭 I’m currently working on [Scalable Chat App](https://github.com/dsoumitra693/sacalable-chat-app)
+- 🔭 I’m currently working on [Scalable Chat App](https://github.com/dsoumitra693/chat-app)
 - 🌱 I’m currently learning **Backend Dev, Redis, PostgresSql, Kafka**
 
 - 👯 I’m looking to collaborate on **Web Devlopment**
